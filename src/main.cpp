@@ -17,8 +17,8 @@ float Vm;
 //Where m= Slope = Sensibility
 
 //VARIABLES:
-//float Slope = 185 |<----This one is for 05B-T
-//float Slope = 100 |<----This one is for 20A-T
+//float Slope = 0.185 |<----This one is for 05B-T
+//float Slope = 0.100 |<----This one is for 20A-T
 float Slope = 0.066; //|<----This one is for 30A-T
 int M;
 float Ix=0; //The real current to show.
